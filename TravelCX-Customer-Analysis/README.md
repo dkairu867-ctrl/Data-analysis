@@ -37,6 +37,9 @@ Recommendation: Analyze what Platinum customers are buying (e.g., business class
 Consistent Booking Values:
 The average booking value is relatively stable across all tiers (ranging from ~$2,148 to ~$2,319).
 Insight: Loyalty status drives volume (number of trips) more than the cost of individual trips.
+###  Query Results
+
+![Analysis Results](image.png)
 
 ## 📁 Files
 - `Travelcx-Customer lifetime value.sql` - SQL query for the analysis
